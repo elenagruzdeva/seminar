@@ -6,5 +6,8 @@ instryktsiya po rabote s git
 
 ## sozdanie soxranenii
 
+## peremeshenie megdy soxraneniyami
 
+##zhyrnal izmenenii
 
+## vetki v git
