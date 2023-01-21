@@ -4,13 +4,18 @@ instryktsiya po rabote s git
 
 ## podgotovka repozitoriya
 
+
 ## sozdanie komitov. 
 
 ### Dobavlenie failov k komity. dlua dobavleniya faila k komity ispolzyetsya komanda *git add*. ispolzyetsya ona sledyushim obrazom: v terminale s papkoi-reprozitoriem pishem *git add <nazvanie faila>*
 
-## peremeshenie megdy soxraneniyami
+### sozdanie soxraneni komitami.
+dlya sozdaniya novoi fiksatsii (komita) ispolzyetsya komanda *git commit* Dlya etogo v terminale s papkoi-repozitoriem pishem *git commit -m" <soobshenie k komity>*. Soobshenie k komity pisat ***obyazatelno!!!***
 
-##zhyrnal izmenenii
+
+## peremeshenie megdy komitami. 
+
+## zhyrnal izmenenii
 
 ## vetki v git
 
