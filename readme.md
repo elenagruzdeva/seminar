@@ -15,5 +15,6 @@ Dlua dobavleniya faila k komity ispolzyetsya komanda *git add*. ispolzyetsya ona
 ## peremeshenie megdy "soxraneniyami"
 
 ## vetki v git 
-
+Dlya togo chtobu sdelat novoe otvetvlenie ot vetki *master* neobxodimo vvesti komandy *git branch new_branch <imya vetki>* 
+Zatem pereklychites na novyu vetky s pomosh.u komandu *git checkout*
 ## sliyanir vetok i konflikt comitov
