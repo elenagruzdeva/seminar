@@ -12,7 +12,9 @@ dobavlenie faila {gruzdeva.ru}
 ### Dobavlenie failov k komity. 
 Dlua dobavleniya faila k komity ispolzyetsya komanda *git add*. ispolzyetsya ona sledyushim obrazom: v terminale s papkoi-reprozitoriem pishem *git add <nazvanie faila>*
 
-## peremeshenie megdy "soxraneniyami"
+## peremeshenie megdy "soxraneniyami" 
+dlya togo chtobu perevodit s odnoi na drygyu vetky nygno nabrat komandy *git checkout* i imya vetki kyda xochesh pereiti.
+
 
 ## vetki v git 
 
