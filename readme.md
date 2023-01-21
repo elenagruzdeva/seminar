@@ -6,7 +6,8 @@ Samaya popylyarnaya realizatsiay raspredelennoi sistemu kontrolya versii (versio
 ## podgotovka repozitoriya. 
 dlya sozdaniay reprozitoriya sozdaetsya komanda *git init*. dlya etogo neobxodimo otkrut v terminale papky s bydyshem repozitoriem i napisat *git init* 
 dobavlenie faila {gruzdeva.ru}
-## sozdanie kommitov
+## sozdanie kommitov.
+dlya etogo nygno vupolnit 2 komandu *git add* readme.md dobavlyaem vse izmenennue failu v index. i 2 komanda sozdaet commit *git commit -m "commit massege"*
 
 
 ### Dobavlenie failov k komity. 
