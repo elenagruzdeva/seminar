@@ -5,7 +5,14 @@ instryktsiya po rabote s git
 ## podgotovka repozitoriya
 
 
+
 ## sozdanie komitov. 
+
+##zhyrnal izmenenii
+Dlya prosmotra istorii izmenenii ispolzyetsya komanda *git log*. Dlya etogo v terminale s papkoi repozitoriem neoxodimo napisat *git log*
+
+## peremeshenie megdy soxraneniyami
+
 
 ### Dobavlenie failov k komity. dlua dobavleniya faila k komity ispolzyetsya komanda *git add*. ispolzyetsya ona sledyushim obrazom: v terminale s papkoi-reprozitoriem pishem *git add <nazvanie faila>*
 
