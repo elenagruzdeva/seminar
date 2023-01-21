@@ -4,29 +4,28 @@ instryktsiya po rabote s git
 
 ## podgotovka repozitoriya
 
-
-
-
 ## sozdanie komitov. 
-
-## peremeshenie megdy soxraneniyami
-Dlya peremesheniya na drygyu fiksatsiu (commit)ispolzyetsya komanda *git checkout*. Dlya etoto neobxodimo, kak pokazano v proshlom pynkte v gyrnale izmenenii naiti neoxodimui komit i egoo xesh (nomer), posle chego v terminale s papkoi repozitiriem nado napisat *git checkout <xesh kommita>*. Posle vupolneniya etoi komandu mu popadaem v sostoyanie **detachet head**, v kotorom nikakie sledyushie komitu soxranyatsya ne bedyt. Dlya vuxoda iz etogo sostoyaniya neoxodimo napisat *git checkout master*
-
-##zhyrnal izmenenii
-Dlya prosmotra istorii izmenenii ispolzyetsya komanda *git log*. Dlya etogo v terminale s papkoi repozitoriem neoxodimo napisat *git log*
-
-## peremeshenie megdy soxraneniyami
-
 
 ### Dobavlenie failov k komity. dlua dobavleniya faila k komity ispolzyetsya komanda *git add*. ispolzyetsya ona sledyushim obrazom: v terminale s papkoi-reprozitoriem pishem *git add <nazvanie faila>*
 
-### sozdanie soxraneni komitami.
-dlya sozdaniya novoi fiksatsii (komita) ispolzyetsya komanda *git commit* Dlya etogo v terminale s papkoi-repozitoriem pishem *git commit -m" <soobshenie k komity>*. Soobshenie k komity pisat ***obyazatelno!!!***
+## peremeshenie megdy soxraneniyami
 
+##zhyrnal izmenenii
 
-## peremeshenie megdy komitami. 
+## vetki v git
+instryktsiya po rabote s git
 
-## zhyrnal izmenenii
+## chto takoe git
+Samaya popylyarnaya realizatsiay raspredelennoi sistemu kontrolya versii (versionnost poddergivaetsya i na servere, i y kagdogo klienta). Samoi rasprostranennoi realizatsiei ***GIT*** yavlyaetsya (GitHub) [https.//github.com]
+
+## podgotovka repozitoriya. 
+dlya sozdaniay reprozitoriya sozdaetsya komanda *git init*. dlya etogo neobxodimo otkrut v terminale papky s bydyshem repozitoriem i napisat *git init* 
+dobavlenie faila {gruzdeva.ru}
+## sozdanie soxranenii
+
+## peremeshenie megdy soxraneniyami
+
+##zhyrnal izmenenii
 
 ## vetki v git
 
