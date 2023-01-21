@@ -4,10 +4,11 @@ instryktsiya po rabote s git
 
 ## podgotovka repozitoriya
 
-## sozdanie soxranenii
+## sozdanie soxraneni komitami.
+dlya sozdaniya novoi fiksatsii (komita) ispolzyetsya komanda *git commit* Dlya etogo v terminale s papkoi-repozitoriem pishem *git commit -m" <soobshenie k komity>*. Soobshenie k komity pisat ***obyazatelno!!!***
 
-## peremeshenie megdy soxraneniyami
+## peremeshenie megdy komitami. 
 
-##zhyrnal izmenenii
+## zhyrnal izmenenii
 
 ## vetki v git
