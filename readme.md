@@ -11,3 +11,5 @@ dobavlenie faila {gruzdeva.ru}
 ##zhyrnal izmenenii
 
 ## vetki v git
+
+##sliyanir vetok i konflikt comitov
