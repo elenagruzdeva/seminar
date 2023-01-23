@@ -24,3 +24,7 @@ Zatem pereklychites na novyu vetky s pomosh.u komandu *git checkout*.
 
 ## sliyanir vetok i konflikt comitov
 osnovnaya comanda sliyaniay *git merge* Nygno naxoditsya v chistvike, kyda xochesh vlit novui fail. Pri konflikte ybiraem v rychnyu galochki v i = i delaem pravki. ili vubiraem nygnyu ili predlogennux variantov.
+
+### Prosmotr spiska vetok
+Dlya prosmotra spiska vetok ispolzuetsya komanda *git branch*
+Vudelennaya zelenoi zvevdochka vetka- eto vetka, v dannui moment na kotoroi mu naxodimsya.
