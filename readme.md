@@ -28,3 +28,6 @@ osnovnaya comanda sliyaniay *git merge* Nygno naxoditsya v chistvike, kyda xoche
 ### Prosmotr spiska vetok
 Dlya prosmotra spiska vetok ispolzuetsya komanda *git branch*
 Vudelennaya zelenoi zvevdochka vetka- eto vetka, v dannui moment na kotoroi mu naxodimsya.
+
+  ### Peremeshenie megdy vetkami
+  Dlya peremesheniyami megdy vetkami ispolzyetsya * git checkout*. Dlya etogo v terminale s papkoi Repozitoriem neobxodimo napisat *git checkout <nazvanie vetki>*. Takaya vetka dolgna **syshestvovat*.
